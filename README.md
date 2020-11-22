@@ -9,3 +9,5 @@ line 7
 feature
 
 feature2
+
+feature3
